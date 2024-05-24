@@ -1,5 +1,3 @@
-# Azizbek
-
 <h1 align="center">Hi 👋, I'm Javohir Abdurazzaqov</h1>
 <h3 align="center">I am backend developer from Uzbekistan</h3>
 
